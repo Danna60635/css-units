@@ -1,0 +1,28 @@
+body {
+    background-color:lightcoral;
+}
+
+.header {
+    background-color: rgb(200, 103, 103);
+    padding: 4%;
+   font-size: 30px;
+}
+
+.header h1 {
+    color:rgb(241, 230, 231);
+    font-size: 2em;
+} 
+
+.header a {
+    color:rgb(221, 165, 177);
+    font-size: 1em;
+}
+
+.gallery {
+    background-color:rgb(250, 171, 139)
+}
+
+.gallery img {
+    width: 20%;
+    margin: 1%;
+}
